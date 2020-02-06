@@ -15,9 +15,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.19</version>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.2.9</version>
         </dependency>
 
         <dependency>
@@ -30,7 +30,6 @@
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>4.8.1</version>
-            <scope>test</scope>
         </dependency>
 
         <dependency>
@@ -42,7 +41,7 @@
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
-            <version>LATEST</version>
+            <version>3.8.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>

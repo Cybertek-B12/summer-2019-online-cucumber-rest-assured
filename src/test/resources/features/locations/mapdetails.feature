@@ -13,8 +13,3 @@ Feature: Map page details
       | harvard   |
       | yale      |
       | princeton |
-
-# shortcut to format file in intellij
-# CMD+OPTION+L  mac
-# CMTR+ALT+L    win
-  # Kasim go

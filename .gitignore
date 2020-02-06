@@ -1,4 +1,4 @@
 target/
 .idea/
-summer2019localcucumberselenium.iml
+*.iml
 *.log
